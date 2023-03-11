@@ -10,7 +10,7 @@ Code base for the Stable Diffusion 2023 Kaggle competition
 
 # Basic Ideas
 
-1. Use CLIP Interrogator \textit{https://github.com/pharmapsychotic/clip-interrogator}
+1. Use CLIP Interrogator ~{https://github.com/pharmapsychotic/clip-interrogator}~
 2. Try BLIP2 (it probably will not fit in CLIP Interrogator)
 3. Try different CLIPs for image encoding with Interrogator
 4. Try only BLIP 1/2 
